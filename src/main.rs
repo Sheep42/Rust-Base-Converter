@@ -1,5 +1,3 @@
-extern crate num;
-
 use std::io;
 use std::io::Write;
 
